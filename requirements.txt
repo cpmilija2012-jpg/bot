@@ -1,0 +1,6 @@
+flask
+aiohttp
+requests
+pycryptodome
+brotli
+pyTelegramBotAPI
